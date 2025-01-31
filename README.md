@@ -2,6 +2,8 @@
 
 This Python script uploads a classroom instruction video to Google Gemini Vision API, analyzes the teacher’s instructional methods, and provides expert feedback. The feedback is printed to the console and saved in a timestamped file.
 
+[Loom Video Walkthrough](https://www.loom.com/share/ef88fd73bfe74fd5b6768b2954fadf81?sid=edbf3c00-fa2e-4ab5-8593-4e56f0fcff2d)
+
 ## Installation
 
 1️⃣ Clone the Repository
